@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 elastic_data
 ollama_files
+llm-zoomcap-lancedb
 # C extensions
 *.so
 

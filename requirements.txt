@@ -12,3 +12,4 @@ requests
 scikit-learn
 pandas
 tqdm
+lancedb
